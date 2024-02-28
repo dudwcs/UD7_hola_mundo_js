@@ -37,7 +37,7 @@
             <p>Este es el footer</p>
         </footer>
         
-        <script src="js/script1.js" type="text/javascript"></script>
-        
+        <!-- <script src="js/script1.js" type="text/javascript"></script> -->
+         <script src="js/fetch/fetch_get.js" type="text/javascript"></script>
     </body>
 </html>
