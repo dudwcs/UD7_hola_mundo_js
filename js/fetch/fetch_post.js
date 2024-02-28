@@ -9,8 +9,8 @@ function onceLoaded() {
     fetch('https://jsonplaceholder.typicode.com/posts', {
         method: 'POST',
         body: JSON.stringify({
-            title: 'foo',
-            body: 'bar',
+            title: 'a',
+            body: 'b',
             userId: 1
         }),
         headers: {
